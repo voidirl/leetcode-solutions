@@ -14,5 +14,7 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - set_matrix_zero.cpp
 - spiral_matrix.cpp
 - subarray_sum_equals_K.cpp
+- merge_sorted_array.cpp
+- merge_intervals.cpp
 
 More topics added as I go.
