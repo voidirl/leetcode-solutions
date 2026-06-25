@@ -17,5 +17,6 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - merge_sorted_array.cpp
 - merge_intervals.cpp
 - set_mismatch.cpp
+- reverse_pairs.cpp
 
 More topics added as I go.
