@@ -17,5 +17,7 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - [56] Merge Intervals
 - [645] Set Mismatch
 - [493] Reverse Pairs
+- [704] Binary Search
+- [152] Maximum Product Subarray
  
 More topics added as I go.
