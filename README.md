@@ -2,21 +2,20 @@
 
 My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++.
 
-## arrays
-
-- two_sum.cpp
-- three_sum.cpp
-- four_sum.cpp
-- next_permutation.cpp
-- maximum_subarray.cpp
-- majority_elementII.cpp
-- pascal_triangle.cpp
-- set_matrix_zero.cpp
-- spiral_matrix.cpp
-- subarray_sum_equals_K.cpp
-- merge_sorted_array.cpp
-- merge_intervals.cpp
-- set_mismatch.cpp
-- reverse_pairs.cpp
-
+## Arrays
+- [1] Two Sum
+- [15] 3Sum
+- [18] 4Sum
+- [31] Next Permutation
+- [53] Maximum Subarray
+- [169] Majority Element II
+- [118] Pascal's Triangle
+- [73] Set Matrix Zeroes
+- [54] Spiral Matrix
+- [560] Subarray Sum Equals K
+- [88] Merge Sorted Array
+- [56] Merge Intervals
+- [645] Set Mismatch
+- [493] Reverse Pairs
+ 
 More topics added as I go.
