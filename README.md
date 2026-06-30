@@ -21,6 +21,7 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - [153] Find Minimum in Rotated Sorted Array
 - [169] Majority Element II
 - [493] Reverse Pairs
+- [540] Single Element in a Sorted Array
 - [560] Subarray Sum Equals K
 - [645] Set Mismatch
 - [704] Binary Search
