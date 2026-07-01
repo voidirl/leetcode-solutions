@@ -13,12 +13,14 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - [53] Maximum Subarray
 - [54] Spiral Matrix
 - [56] Merge Intervals
+- [69] Sqrt(x)
 - [73] Set Matrix Zeroes
 - [81] Search in Rotated Sorted Array II
 - [88] Merge Sorted Array
 - [118] Pascal's Triangle
 - [152] Maximum Product Subarray
 - [153] Find Minimum in Rotated Sorted Array
+- [162] Find Peak Element
 - [169] Majority Element II
 - [493] Reverse Pairs
 - [540] Single Element in a Sorted Array
