@@ -27,5 +27,6 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - [560] Subarray Sum Equals K
 - [645] Set Mismatch
 - [704] Binary Search
+- [875] Koko Eating Bananas
 
 More topics added as I go.
