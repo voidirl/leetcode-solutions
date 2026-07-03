@@ -28,5 +28,7 @@ My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++
 - [645] Set Mismatch
 - [704] Binary Search
 - [875] Koko Eating Bananas
+- [1283] Find the Smallest Divisor Given a Threshold
+- [1482] Minimum Number of Days to Make m Bouquets
 
 More topics added as I go.
