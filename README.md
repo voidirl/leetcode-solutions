@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-My solutions to LeetCode problems as I grind Striver's A2Z DSA sheet. Mostly C++.
+My solutions to LeetCode problems. Mostly C++.
 
 ## Arrays
 - [1] Two Sum
