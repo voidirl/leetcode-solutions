@@ -30,5 +30,6 @@ My solutions to LeetCode problems. Mostly C++.
 - [875] Koko Eating Bananas
 - [1283] Find the Smallest Divisor Given a Threshold
 - [1482] Minimum Number of Days to Make m Bouquets
+- [1011] Capacity To Ship Packages Within D Days
 
 More topics added as I go.
