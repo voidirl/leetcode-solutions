@@ -31,5 +31,6 @@ My solutions to LeetCode problems. Mostly C++.
 - [1011] Capacity To Ship Packages Within D Days
 - [1283] Find the Smallest Divisor Given a Threshold
 - [1482] Minimum Number of Days to Make m Bouquets
+- [1539] Kth Missing Positive Number
 
 More topics added as I go.
