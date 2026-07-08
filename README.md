@@ -4,6 +4,7 @@ My solutions to LeetCode problems. Mostly C++.
 
 ## Arrays
 - [1] Two Sum
+- [4] Median of Two Sorted Arrays
 - [15] 3Sum
 - [18] 4Sum
 - [31] Next Permutation
