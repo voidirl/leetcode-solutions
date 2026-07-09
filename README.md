@@ -35,5 +35,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [1482] Minimum Number of Days to Make m Bouquets
 - [1539] Kth Missing Positive Number
 - [1552] Magnetic Force Between Two Balls
+- [1552] Magnetic FOrce Between Two Balls
+- [2643] Row With Maximum Ones
 
 More topics added as I go.
