@@ -16,6 +16,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [56] Merge Intervals
 - [69] Sqrt(x)
 - [73] Set Matrix Zeroes
+- [74] Search a 2D Matrix
 - [81] Search in Rotated Sorted Array II
 - [88] Merge Sorted Array
 - [118] Pascal's Triangle
@@ -23,6 +24,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [153] Find Minimum in Rotated Sorted Array
 - [162] Find Peak Element
 - [169] Majority Element II
+- [240] Search a 2D Matrix II
 - [410] Split Array Largest Sum
 - [493] Reverse Pairs
 - [540] Single Element in a Sorted Array
