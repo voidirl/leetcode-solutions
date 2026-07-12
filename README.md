@@ -41,4 +41,9 @@ My solutions to LeetCode problems. Mostly C++.
 - [1901] Find a Peak Element II
 - [2643] Row With Maximum Ones
 
+
+## Strings
+- [125] Valid Palindrome
+- [344] Reverse String
+- [1910] Remove All Occurrences of a Substring
 More topics added as I go.
