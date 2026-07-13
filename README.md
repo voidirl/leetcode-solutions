@@ -44,7 +44,10 @@ My solutions to LeetCode problems. Mostly C++.
 
 ## Strings
 - [125] Valid Palindrome
+- [151] Reverse Words in a String
 - [344] Reverse String
+- [443] String Compression
+- [567] Permutation in String
 - [1910] Remove All Occurrences of a Substring
 
 More topics added as I go.
