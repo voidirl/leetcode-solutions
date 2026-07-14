@@ -43,11 +43,14 @@ My solutions to LeetCode problems. Mostly C++.
 
 
 ## Strings
+- [14] Longest Common Prefix
 - [125] Valid Palindrome
 - [151] Reverse Words in a String
 - [344] Reverse String
 - [443] String Compression
 - [567] Permutation in String
+- [1021] Remove Outermost Parentheses
+- [1903] Largest Odd Number in String
 - [1910] Remove All Occurrences of a Substring
 
 More topics added as I go.
