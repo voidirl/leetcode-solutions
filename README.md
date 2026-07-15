@@ -46,9 +46,12 @@ My solutions to LeetCode problems. Mostly C++.
 - [14] Longest Common Prefix
 - [125] Valid Palindrome
 - [151] Reverse Words in a String
+- [205] Isomorphic Strings
+- [242] Valid Anagram
 - [344] Reverse String
 - [443] String Compression
 - [567] Permutation in String
+- [796] Rotate String
 - [1021] Remove Outermost Parentheses
 - [1903] Largest Odd Number in String
 - [1910] Remove All Occurrences of a Substring
