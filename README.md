@@ -43,6 +43,7 @@ My solutions to LeetCode problems. Mostly C++.
 
 
 ## Strings
+- [5] Longest Palindromic Substring
 - [8] String to Integer (atoi)
 - [13] Roman to Integer
 - [14] Longest Common Prefix
@@ -57,6 +58,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [796] Rotate String
 - [1021] Remove Outermost Parentheses
 - [1614] Maximum Nesting Depth of the Parentheses
+- [1781] Sum of Beauty of All Substrings
 - [1903] Largest Odd Number in String
 - [1910] Remove All Occurrences of a Substring
 
