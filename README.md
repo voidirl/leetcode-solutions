@@ -47,6 +47,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [8] String to Integer (atoi)
 - [13] Roman to Integer
 - [14] Longest Common Prefix
+- [38] Count and Say
 - [125] Valid Palindrome
 - [151] Reverse Words in a String
 - [205] Isomorphic Strings
@@ -56,6 +57,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [451] Sort Characters By Frequency
 - [567] Permutation in String
 - [796] Rotate String
+- [921] Minimum Add to Make Parentheses Valid
 - [1021] Remove Outermost Parentheses
 - [1614] Maximum Nesting Depth of the Parentheses
 - [1781] Sum of Beauty of All Substrings
