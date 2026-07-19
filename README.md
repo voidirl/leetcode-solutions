@@ -47,6 +47,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [8] String to Integer (atoi)
 - [13] Roman to Integer
 - [14] Longest Common Prefix
+- [28] Find the Index of the First Occurrence in a String
 - [38] Count and Say
 - [125] Valid Palindrome
 - [151] Reverse Words in a String
