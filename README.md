@@ -65,4 +65,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [1903] Largest Odd Number in String
 - [1910] Remove All Occurrences of a Substring
 
+## Linked List
+-[237] Delete Node in a Linked List
+
 More topics added as I go.
