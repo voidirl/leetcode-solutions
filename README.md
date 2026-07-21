@@ -40,6 +40,8 @@ My solutions to LeetCode problems. Mostly C++.
 - [1552] Magnetic FOrce Between Two Balls
 - [1901] Find a Peak Element II
 - [2643] Row With Maximum Ones
+- [3781] Find Missing Elements
+- [3960] Frequency Balance Subarray
 
 
 ## Strings
