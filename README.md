@@ -68,6 +68,7 @@ My solutions to LeetCode problems. Mostly C++.
 - [1910] Remove All Occurrences of a Substring
 
 ## Linked List
--[237] Delete Node in a Linked List
+- [206] Reverse Linked List
+- [237] Delete Node in a Linked List
 
 More topics added as I go.
