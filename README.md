@@ -70,5 +70,6 @@ My solutions to LeetCode problems. Mostly C++.
 ## Linked List
 - [206] Reverse Linked List
 - [237] Delete Node in a Linked List
+- [328] Odd Even Linked List
 
 More topics added as I go.
